@@ -7,7 +7,9 @@
   <h3 align="center"><i>Simple Calculator with Currency Converter</i></h3>
 </div>
 
-Performs simple math operations and allows currency convertions via <a href="https://fixer.io">Fixer</a>'s api 
+<p align="center">Performs simple math operations and allows currency convertions via <a href="https://fixer.io">Fixer</a>'s api </p>
+
+<br>
 
 ## Buy me a coffee
 ...via [PayPal](https://www.paypal.me/PanagiotisPanos)
